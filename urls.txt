@@ -1,0 +1,1 @@
+https://googlesamples.github.io/web-fundamentals/fundamentals/security/prevent-mixed-content/simple-example.html
